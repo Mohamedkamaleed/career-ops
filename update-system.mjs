@@ -308,6 +308,7 @@ const SYSTEM_PATHS = [
   'verify-cv-facts.mjs',
   'verify-cv-structure.mjs',
   'verify-ats.mjs',
+  'ats-payload.mjs',
   'update-system.mjs',
   'path-resolver.mjs',
   'ats-vendor.mjs',
